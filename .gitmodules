@@ -1,0 +1,3 @@
+[submodule "bv-algorithm"]
+	path = bv-algorithm
+	url = https://bitbucket.org/bookvoyagerdevteam/bv-algorithm
