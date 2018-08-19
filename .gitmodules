@@ -1,9 +1,0 @@
-[submodule "bv-algorithm"]
-	path = bv-algorithm
-	url = https://bitbucket.org/bookvoyagerdevteam/bv-algorithm
-[submodule "bv-store"]
-	path = bv-store
-	url = https://bitbucket.org/bookvoyagerdevteam/bv-store
-[submodule "bv-recommendation-engine"]
-	path = bv-recommendation-engine
-	url = https://bitbucket.org/bookvoyagerdevteam/bv-recommendation-engine
