@@ -8,3 +8,8 @@ It was running in production for more than half a year, without any issues, and 
 
 Enjoy.
 
+# Installation
+
+Just follow the installation guide in every module, the process is described in the README.
+
+
