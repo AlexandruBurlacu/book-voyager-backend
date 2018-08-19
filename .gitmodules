@@ -1,0 +1,3 @@
+[submodule "bv-recommendation-engine"]
+	path = bv-recommendation-engine
+	url = git@github.com:AlexandruBurlacu/bv-recommendation-engine.git
