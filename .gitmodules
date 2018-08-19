@@ -1,3 +1,6 @@
 [submodule "bv-recommendation-engine"]
 	path = bv-recommendation-engine
 	url = git@github.com:AlexandruBurlacu/bv-recommendation-engine.git
+[submodule "bv-algorithm"]
+	path = bv-algorithm
+	url = git@github.com:AlexandruBurlacu/bv-algorithm.git
