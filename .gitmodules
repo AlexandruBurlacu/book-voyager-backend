@@ -4,3 +4,6 @@
 [submodule "bv-algorithm"]
 	path = bv-algorithm
 	url = git@github.com:AlexandruBurlacu/bv-algorithm.git
+[submodule "bv-store"]
+	path = bv-store
+	url = git@github.com:AlexandruBurlacu/bv-store.git
